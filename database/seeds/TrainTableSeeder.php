@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Train;
 use Illuminate\Database\Seeder;
 use Faker\Generator as Faker;
 
